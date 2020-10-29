@@ -1,2 +1,2 @@
 # chatbot-PE
- primeiro repositorio versionado
+ trabalho da matéria programação estruturada 
